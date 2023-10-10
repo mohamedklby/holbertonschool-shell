@@ -1,2 +1,2 @@
 #!/bin/bash
-./definir_mode.sh hello 644
+chmod mode hello
