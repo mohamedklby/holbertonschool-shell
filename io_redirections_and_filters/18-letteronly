@@ -1,2 +1,2 @@
 #!/bin/bash
-grep '^A' /etc/ssh/sshd_config
+grep '^b' /etc/ssh/sshd_config
