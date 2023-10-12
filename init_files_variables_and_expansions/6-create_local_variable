@@ -1,2 +1,2 @@
 #!/bin/bash
-BETTY= "BEST" | ma_variable= "School"
+BETTY="BEST=School"
